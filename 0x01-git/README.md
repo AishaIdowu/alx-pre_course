@@ -1,1 +1,2 @@
-My second reame
+My second readme
+This directory contains c and bash folde
